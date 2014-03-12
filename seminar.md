@@ -456,7 +456,7 @@ We interpreted these results as possibly reflecting heightened reactivity to and
 Note:
 
  Because exposure is not randomized, the association could be an artifact of unobserved confounding.
-  * Moderately sensitive. Setting the conditional probability of a given unobserved confounder to be 20% greater in a disadvantaged versus nondisadvantaged neighborhoods, the unobserved confounder would have to bias the conditional mean cortisol slope by 98% to change our inference.
+  * Moderately sensitive. Setting the conditional probability of a given unobserved confounder to be 20% greater in a disadvantaged versus nondisadvantaged neighborhoods (delta), the unobserved confounder would have to bias the conditional mean cortisol slope by 98% (gamma) to change our inference.
 
 ---
 
